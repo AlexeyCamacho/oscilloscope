@@ -1,0 +1,10 @@
+C:\Users\aleks\source\repos\oscilloscope\Debug\oscilloscope.vcxproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\oscilloscope\Debug\oscilloscope.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\aleks\source\repos\oscilloscope\Debug\oscilloscope.MyForm.resources
+C:\Users\aleks\source\repos\oscilloscope\Debug\oscilloscope.vcxproj.GenerateResource.cache
+C:\Users\aleks\source\repos\oscilloscope\Debug\oscilloscope.exe
+D:\Programmig\C++\oscilloscope\Debug\oscilloscope.vcxproj.AssemblyReference.cache
+D:\Programmig\C++\oscilloscope\Debug\oscilloscope.vcxproj.SuggestedBindingRedirects.cache
+D:\Programmig\C++\oscilloscope\Debug\oscilloscope.MyForm.resources
+D:\Programmig\C++\oscilloscope\Debug\oscilloscope.vcxproj.GenerateResource.cache
+D:\Programmig\C++\oscilloscope\Debug\oscilloscope.exe

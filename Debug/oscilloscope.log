@@ -1,0 +1,26 @@
+﻿  MyForm.cpp
+D:\Programmig\C++\oscilloscope\MyForm.h(360,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(360,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(362,51): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(365,49): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(372,39): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(372,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(374,49): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(381,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(381,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(382,69): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(382,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(388,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(388,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(389,69): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(389,66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(394,38): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(394,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(430,71): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(430,45): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(444,31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(444,23): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(564,51): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Programmig\C++\oscilloscope\MyForm.h(564,33): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  oscilloscope.vcxproj -> D:\Programmig\C++\oscilloscope\Debug\oscilloscope.exe
